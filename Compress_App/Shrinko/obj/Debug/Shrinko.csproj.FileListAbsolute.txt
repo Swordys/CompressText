@@ -1,0 +1,27 @@
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\bin\Debug\Shrinko.exe.config
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\bin\Debug\Shrinko.exe
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\bin\Debug\Shrinko.pdb
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\obj\Debug\Shrinko.csprojResolveAssemblyReference.cache
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\obj\Debug\Shrinko.Properties.Resources.resources
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\obj\Debug\Shrinko.csproj.GenerateResource.Cache
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\obj\Debug\Shrinko.exe
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\obj\Debug\Shrinko.pdb
+c:\users\davidpc\documents\visual studio 2015\Projects\Shrinko\Shrinko\obj\Debug\Shrinko.compressWrap.resources
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\bin\Debug\Shrinko.exe.config
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\obj\Debug\Shrinko.exe
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\obj\Debug\Shrinko.pdb
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\bin\Debug\Shrinko.exe
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\bin\Debug\Shrinko.pdb
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\obj\Debug\Shrinko.csprojResolveAssemblyReference.cache
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\obj\Debug\Shrinko.compressWrap.resources
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\obj\Debug\Shrinko.Properties.Resources.resources
+C:\Users\DavidPC\Desktop\Shrinko\Shrinko\obj\Debug\Shrinko.csproj.GenerateResource.Cache
+D:\APPS\C#\Compress_App\Shrinko\bin\Debug\Shrinko.exe.config
+D:\APPS\C#\Compress_App\Shrinko\bin\Debug\Shrinko.exe
+D:\APPS\C#\Compress_App\Shrinko\bin\Debug\Shrinko.pdb
+D:\APPS\C#\Compress_App\Shrinko\obj\Debug\Shrinko.csprojResolveAssemblyReference.cache
+D:\APPS\C#\Compress_App\Shrinko\obj\Debug\Shrinko.compressWrap.resources
+D:\APPS\C#\Compress_App\Shrinko\obj\Debug\Shrinko.Properties.Resources.resources
+D:\APPS\C#\Compress_App\Shrinko\obj\Debug\Shrinko.csproj.GenerateResource.Cache
+D:\APPS\C#\Compress_App\Shrinko\obj\Debug\Shrinko.exe
+D:\APPS\C#\Compress_App\Shrinko\obj\Debug\Shrinko.pdb
